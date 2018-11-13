@@ -1,7 +1,7 @@
 package qr
 
 import (
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode/utils"
 )
 
 type errorCorrection struct {

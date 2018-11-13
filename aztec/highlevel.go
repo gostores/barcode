@@ -1,7 +1,7 @@
 package aztec
 
 import (
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode/utils"
 )
 
 func highlevelEncode(data []byte) *utils.BitList {

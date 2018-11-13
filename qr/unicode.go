@@ -3,7 +3,7 @@ package qr
 import (
 	"errors"
 
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode/utils"
 )
 
 func encodeUnicode(content string, ecl ErrorCorrectionLevel) (*utils.BitList, *versionInfo, error) {

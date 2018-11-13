@@ -3,7 +3,7 @@ package aztec
 import (
 	"fmt"
 
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode/utils"
 )
 
 type token interface {

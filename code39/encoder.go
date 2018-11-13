@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gostores/barcode"
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode"
+	"github.com/govenue/barcode/utils"
 )
 
 type encodeInfo struct {

@@ -4,8 +4,8 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/gostores/barcode"
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode"
+	"github.com/govenue/barcode/utils"
 )
 
 type pdfBarcode struct {

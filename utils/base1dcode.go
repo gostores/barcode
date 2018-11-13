@@ -5,7 +5,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/gostores/barcode"
+	"github.com/govenue/barcode"
 )
 
 type base1DCode struct {

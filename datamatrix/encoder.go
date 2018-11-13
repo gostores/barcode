@@ -4,7 +4,7 @@ package datamatrix
 import (
 	"errors"
 
-	"github.com/gostores/barcode"
+	"github.com/govenue/barcode"
 )
 
 // Encode returns a Datamatrix barcode for the given content

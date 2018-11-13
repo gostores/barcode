@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/gostores/barcode/utils"
+	"github.com/govenue/barcode/utils"
 )
 
 type encodingMode byte
